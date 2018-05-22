@@ -7,3 +7,5 @@ Altere a classe ClienteARQ, na linha 29: fos = new FileOutputStream(new File("aq
 Execute a Classe ServidorARQ.
 
 Execute a Classe ClienteARQ.
+
+P.s: Criar um servidor (pasta local) contendo somente imagens no formato JPG.
